@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Fira Code', sans-serif;
+}
+
+:root {
+  --primary: #353b48;
+  --black: #000000;
+  --blackLighter: #535c68;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5;
+  --white: #FFFFFF;
+  --frontEnd: #e84118;
+  --backEnd: #ffa502;
+  --dataScience: #05c46b;
+  --fullStack: #1289A7;
+  --gameDev: #EA2027;
+  --discord: #706fd3;
+  --redes: #55E6C1;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}

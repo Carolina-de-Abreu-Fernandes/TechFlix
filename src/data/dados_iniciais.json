@@ -1,0 +1,150 @@
+{
+  "categorias": [{
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": " #e84118",
+      "link_extra": {
+        "text": "Conteúdos sobre Front End "
+      },
+      "videos": [{
+          "titulo": "Sejam bem-vindos ao repositório de arquivos tech! Bora Dev?!",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": " #ffa502",
+      "link_extra": {
+        "text": "Conteúdos sobre Back End"
+      },
+      "videos": [{
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        },
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e AI",
+      "cor": " #05c46b",
+      "link_extra": {
+        "text": "Conteúdo sobre Data Science e AI"
+      },
+      "videos": [{
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Full Stack",
+      "cor": " #1289A7",
+      "link_extra": {
+        "text": "Conteúdos sobre Full Stack "
+      },
+      "videos": [{
+        "titulo": "Full Stack, é realmente possível?",
+        "url": "https://youtu.be/GP5pUUK_OfY"
+      }]
+    },
+    {
+      "titulo": "Game Dev",
+      "cor": " #EA2027",
+      "link_extra": {
+        "text": "Conteúdo sobre desenvolvimento de games"
+      },
+      "videos": [{
+        "titulo": "Flappy Bird do zero!!",
+        "url": "https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej"
+      }]
+    },
+    {
+      "titulo": "Discord",
+      "cor": " #706fd3",
+      "link_extra": {
+        "text": "Comunidades tech no Discord",
+        "url": ""
+      },
+      "videos": [{
+        "titulo": "Code's Moon",
+        "url": "https://discord.gg/zhqcwWS"
+      }]
+    },
+    {
+      "titulo": "Minhas Redes",
+      "cor": "#55E6C1",
+      "link_extra": {
+        "text": "Gostou do meu trabalho? Me adiciona aí! :)"
+      },
+      "videos": [{
+          "titulo": "LinkedIn",
+          "url": "https://www.linkedin.com/in/carolina-de-abreu-fernandes-287905181/"
+        },
+        {
+          "titulo": "Discord",
+          "url": "CaroldeAbreu#6198"
+        },
+        {
+          "titulo": "GitHub",
+          "url": "https://github.com/Carolina-de-Abreu-Fernandes"
+        }
+      ]
+    }
+  ]
+}

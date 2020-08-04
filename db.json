@@ -1,0 +1,46 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Front End",
+      "descricao": "Uma categoria para aprender sobre como criar uma interface maneira!",
+      "cor": "#e84118"
+    },
+    {
+      "id": 2,
+      "nome": "Back End",
+      "descricao": "Uma categoria para aprender sobre como manipular seus dados corretamente, fazendo um banco mara para deixar seu Front End dinâmico!",
+      "cor": "#ffa502"
+    },
+    {
+      "id": 3,
+      "nome": "Data Science e AI",
+      "descricao": "Uma categoria para aprender mais sobre a ciência e análise de dados!",
+      "cor": " #05c46b"
+    },
+    {
+      "id": 4,
+      "nome": "Full Stack",
+      "descricao": "Não sabe qual seu amor maior? Front End? Back End? Veja aqui o que um Dev Full Stack faz!",
+      "cor": "#1289A7"
+    },
+    {
+      "id": 5,
+      "nome": "Game Dev",
+      "descricao": "Não sabe qual seu amor maior? Front End? Back End? Veja aqui o que um Dev Full Stack faz!",
+      "cor": "#EA2027"
+    },
+    {
+      "id": 6,
+      "nome": "Discord",
+      "descricao": "Quem aí não ama a comunidade? Bora lá pro server, dev!",
+      "cor": "#706fd3"
+    },
+    {
+      "id": 7,
+      "nome": "Minhas Redes",
+      "descricao": "Quer conhecer mais sobre quem desenvolveu isso tudo aqui, na imersão React da Alura? Dá um pulo nas minhas redes, poxa!",
+      "cor": " #55E6C1"
+    }
+  ]
+}
